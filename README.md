@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav014)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vaibhavbhardwaj012/)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/vaibhavbh012/portfolio)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfoliovbc.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavbhardwaj012@gmail.com)
 
 <br/>
@@ -17,6 +17,7 @@ class VaibhavBhardwaj:
         self.education = "B.Tech in Computer Science (Data Science) @ UPES"
         self.cgpa = 8.04
         self.location = "Dehradun, India"
+        self.portfolio = "https://portfoliovbc.vercel.app/"
         self.current_focus = ["Deep Learning", "Computer Vision", "NLP", "Predictive Analytics"]
         self.status = "Open to AI / Data Science Opportunities"
 
@@ -158,6 +159,7 @@ class VaibhavBhardwaj:
 
 ### 🤝 Let's Connect & Collaborate!
 
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=flat-square&logo=vercel&logoColor=black)](https://portfoliovbc.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav014)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vaibhavbhardwaj012/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vaibhavbhardwaj012@gmail.com)
