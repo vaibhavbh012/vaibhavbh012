@@ -135,17 +135,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavbh012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vaibhav's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbh012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect & Collaborate!
