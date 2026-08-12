@@ -8,27 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfoliovbc.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavbhardwaj012@gmail.com)
 
-<br/>
-
-```python
-class VaibhavBhardwaj:
-    def __init__(self):
-        self.name = "Vaibhav Bhardwaj"
-        self.education = "B.Tech in Computer Science (Data Science) @ UPES"
-        self.cgpa = 8.04
-        self.location = "Dehradun, India"
-        self.portfolio = "https://portfoliovbc.vercel.app/"
-        self.current_focus = ["Deep Learning", "Computer Vision", "NLP", "Predictive Analytics"]
-        self.status = "Open to AI / Data Science Opportunities"
-
-    def get_passions(self):
-        return [
-            "Building intelligent deep learning vision & medical AI pipelines",
-            "Mining high-volume unstructured text with TF-IDF & LDA",
-            "Optimizing predictive machine learning regressors (XGBoost, Random Forest)"
-        ]
-```
-
 </div>
 
 ---
