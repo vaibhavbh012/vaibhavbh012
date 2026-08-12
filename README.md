@@ -16,7 +16,7 @@
 
 - 🎓 **B.Tech in Computer Science (Data Science)** at **University of Petroleum and Energy Studies (UPES), Dehradun** with an **8.04 CGPA** (*Aug 2023 – Present*).
 - 💼 **Data Science Intern** at **IBM** (*June 2026 – July 2026*), analyzed **97,682+ Indian job postings** to engineer NLP skill extraction and salary prediction models.
-- 🤖 Passionate about **Computer Vision**, **Natural Language Processing**, **Transfer Learning**, and **Algorithmic Problem Solving**.
+- 🚀 **Experienced in developing AI solutions** and applying machine learning and deep learning techniques to real-world projects, with an interest in emerging technologies.
 - 💻 **100+ LeetCode Problems Solved** mastering Data Structures, Algorithms, Dynamic Programming, and Graph Traversals.
 
 ---
@@ -35,7 +35,17 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-1E293B?style=for-the-badge)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-1E293B?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-0284C7?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-0284C7?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-0D9488?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-0D9488?style=for-the-badge)
+![Ensemble Learning](https://img.shields.io/badge/Ensemble_Learning-6366F1?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-8B5CF6?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-8B5CF6?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-EC4899?style=for-the-badge)
 
 ### 📊 Data Analytics & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -43,6 +53,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ Developer Tools & Environments
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,7 +74,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🔬 <a href="https://github.com/vaibhavbh012/Automated-Skin-Disease-Detection-System">Automated Skin Disease Detection System</a></h3>
-      <p><b>Tech:</b> <code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>CNN</code> <code>MobileNetV2</code> <code>OpenCV</code></p>
+      <p><b>Tech:</b> <code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>CNN</code> <code>MobileNetV2</code> <code>NumPy</code> <code>Pandas</code></p>
       <ul>
         <li>Designed a MobileNetV2-based CNN with transfer learning to classify six dermatological conditions with <b>92.4% validation accuracy</b>.</li>
         <li>Built an end-to-end image preprocessing & augmentation pipeline.</li>
