@@ -47,6 +47,11 @@
 ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-8B5CF6?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-EC4899?style=for-the-badge)
 
+### 🧠 Generative AI
+![LLMs](https://img.shields.io/badge/LLMs-1E293B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-1E293B?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1E293B?style=for-the-badge)
+
 ### 📊 Data Analytics & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -56,6 +61,9 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚡ Backend/API
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### ⚙️ Developer Tools & Environments
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
