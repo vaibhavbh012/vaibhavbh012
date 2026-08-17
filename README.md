@@ -83,14 +83,14 @@
       <a href="https://github.com/vaibhavbh012/Automated-Skin-Disease-Detection-System"><b>View Repository ➔</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/vaibhavbh012">Job Market Trend Analysis System</a></h3>
+      <h3>💼 <a href="https://github.com/vaibhavbh012/job-market-trend-analysis-system">Job Market Trend Analysis System</a></h3>
       <p><b>Tech:</b> <code>Python</code> <code>NLP</code> <code>TF-IDF</code> <code>LDA</code> <code>Scikit-learn</code> <code>XGBoost</code></p>
       <ul>
         <li>Analyzed <b>97,682+ Indian job postings</b> to extract market intelligence during IBM Data Science Internship.</li>
         <li>Applied TF-IDF & LDA Topic Modeling for skill cluster extraction.</li>
         <li>Compared Linear Regression, Random Forest, and XGBoost models for compensation forecasting.</li>
       </ul>
-      <a href="https://github.com/vaibhavbh012"><b>View Project ➔</b></a>
+      <a href="https://github.com/vaibhavbh012/job-market-trend-analysis-system"><b>View Repository ➔</b></a> | <a href="https://job-market-trend-analysis-system-ew2wk94i8.vercel.app/"><b>View Project ➔</b></a>
     </td>
   </tr>
   <tr>
