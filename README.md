@@ -88,7 +88,7 @@
         <li>Built an end-to-end image preprocessing & augmentation pipeline.</li>
         <li>Integrated symptom-based inputs for severity assessment and personalized clinical recommendations.</li>
       </ul>
-      <a href="https://github.com/vaibhavbh012/Automated-Skin-Disease-Detection-System"><b>View Repository ➔</b></a>
+      <a href="https://github.com/vaibhavbh012/Automated-Skin-Disease-Detection-System"><b>View Repository ➔</b></a> | <a href="https://automated-skin-disease-detection-sy.vercel.app/"><b>View Project ➔</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>💼 <a href="https://github.com/vaibhavbh012/job-market-trend-analysis-system">Job Market Trend Analysis System</a></h3>
