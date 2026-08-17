@@ -102,7 +102,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🧠 <a href="https://github.com/vaibhavbh012">Alzheimer's Disease Detection using Deep Learning</a></h3>
       <p><b>Tech:</b> <code>Python</code> <code>PyTorch</code> <code>ResNet50</code> <code>VGG16</code> <code>Torchvision</code></p>
       <ul>
@@ -111,14 +111,6 @@
         <li>Achieved standout <b>94.21% validation accuracy</b>.</li>
       </ul>
       <a href="https://github.com/vaibhavbh012"><b>View Project ➔</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 <a href="https://leetcode.com/u/vaibhavbhardwaj012/">100+ LeetCode Solved (DSA Mastery)</a></h3>
-      <ul>
-        <li>Solved <b>100+ algorithmic challenges</b> optimizing time and space complexity.</li>
-        <li>Solid mastery of <b>Array</b>, <b>Binary Search</b>, <b>String</b>, <b>Linked List</b>, <b>Stack</b>, and <b>Queue</b>.</li>
-      </ul>
-      <a href="https://leetcode.com/u/vaibhavbhardwaj012/"><b>View LeetCode Profile ➔</b></a>
     </td>
   </tr>
 </table>
